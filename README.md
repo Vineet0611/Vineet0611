@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vineet0611
-- 👀 I’m interested in Java Development and Android Development
-- 🌱 I’m currently learning Android
+- 👀 I’m a Dot Net Developer
 - 📫 How to reach me vineetmendon06@gmail.com
 
 <!---
